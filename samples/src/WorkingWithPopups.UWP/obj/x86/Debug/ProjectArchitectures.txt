@@ -1,0 +1,2 @@
+C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups.UWP\WorkingWithPopups.UWP.csproj;x86
+C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\WorkingWithPopups.csproj;neutral
