@@ -1,31 +1,69 @@
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\obj\Debug\WorkingWithPopups.Android.csprojResolveAssemblyReference.cache
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\WorkingWithPopups.Android.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\WorkingWithPopups.Android.pdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\WorkingWithPopups.Android.apk
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\WorkingWithPopups.Android-Signed.apk
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\FormsViewGroup.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\WorkingWithPopups.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\Xamarin.Android.Support.Design.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\Xamarin.Android.Support.v4.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\Xamarin.Forms.Core.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\Xamarin.Forms.Platform.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\WorkingWithPopups.pdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\WorkingWithPopups.dll.mdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\Xamarin.Forms.Core.xml
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\obj\Debug\WorkingWithPopups.Android.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\obj\Debug\WorkingWithPopups.Android.pdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\obj\Debug\android\bin\WorkingWithPopups.Android.apk
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\obj\Debug\res\layout\main.xml
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\obj\Debug\res\values\strings.xml
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\obj\Debug\res\drawable\icon.png
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\obj\Debug\res\drawable\csharp.png
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\obj\Debug\R.cs.flag
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\obj\Debug\uploadflags.txt
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\obj\Debug\WorkingWithPopups.Android.dll.mdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\Android\bin\Debug\WorkingWithPopups.Android.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\WorkingWithPopups.Android.csprojResolveAssemblyReference.cache
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\WorkingWithPopups.Android.dll
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\WorkingWithPopups.Android.pdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\WorkingWithPopups.Android.apk
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\WorkingWithPopups.Android-Signed.apk
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\FormsViewGroup.dll
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\WorkingWithPopups.dll
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\WorkingWithPopups.pdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\FormsViewGroup.pdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\WorkingWithPopups.Android.dll
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\WorkingWithPopups.Android.pdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\bin\WorkingWithPopups.Android.apk
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\res\layout\main.xml
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\res\values\strings.xml
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\res\drawable\icon.png
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\res\drawable\csharp.png
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\R.cs.flag
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\uploadflags.txt
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\WorkingWithPopups.Android.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\WorkingWithPopups.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Java.Interop.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\Mono.Android.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\mscorlib.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\System.Core.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\System.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\System.Net.Http.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\System.Xml.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\System.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\WorkingWithPopups.Android.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\WorkingWithPopups.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\obj\Debug\WorkingWithPopups.Android.dll.mdb
+C:\sources\XamarinExamples\samples\src\Android\bin\Debug\WorkingWithPopups.Android.dll.mdb

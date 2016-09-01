@@ -8,7 +8,8 @@ public abstract class VisualElementRenderer_1
 		android.view.View.OnTouchListener,
 		android.view.View.OnClickListener
 {
-	static final String __md_methods;
+/** @hide */
+	public static final String __md_methods;
 	static {
 		__md_methods = 
 			"n_onLayout:(ZIIII)V:GetOnLayout_ZIIIIHandler\n" +
@@ -16,6 +17,14 @@ public abstract class VisualElementRenderer_1
 			"n_onClick:(Landroid/view/View;)V:GetOnClick_Landroid_view_View_Handler:Android.Views.View/IOnClickListenerInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"";
 		mono.android.Runtime.register ("Xamarin.Forms.Platform.Android.VisualElementRenderer`1, Xamarin.Forms.Platform.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null", VisualElementRenderer_1.class, __md_methods);
+	}
+
+
+	public VisualElementRenderer_1 (android.content.Context p0) throws java.lang.Throwable
+	{
+		super (p0);
+		if (getClass () == VisualElementRenderer_1.class)
+			mono.android.TypeManager.Activate ("Xamarin.Forms.Platform.Android.VisualElementRenderer`1, Xamarin.Forms.Platform.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0 });
 	}
 
 
@@ -32,14 +41,6 @@ public abstract class VisualElementRenderer_1
 		super (p0, p1, p2);
 		if (getClass () == VisualElementRenderer_1.class)
 			mono.android.TypeManager.Activate ("Xamarin.Forms.Platform.Android.VisualElementRenderer`1, Xamarin.Forms.Platform.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:Android.Util.IAttributeSet, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065:System.Int32, mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e", this, new java.lang.Object[] { p0, p1, p2 });
-	}
-
-
-	public VisualElementRenderer_1 (android.content.Context p0) throws java.lang.Throwable
-	{
-		super (p0);
-		if (getClass () == VisualElementRenderer_1.class)
-			mono.android.TypeManager.Activate ("Xamarin.Forms.Platform.Android.VisualElementRenderer`1, Xamarin.Forms.Platform.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0 });
 	}
 
 
@@ -66,7 +67,7 @@ public abstract class VisualElementRenderer_1
 
 	private native void n_onClick (android.view.View p0);
 
-	java.util.ArrayList refList;
+	private java.util.ArrayList refList;
 	public void monodroidAddReference (java.lang.Object obj)
 	{
 		if (refList == null)

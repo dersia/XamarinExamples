@@ -1,27 +1,19 @@
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\obj\Debug\WorkingWithPopups.csprojResolveAssemblyReference.cache
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\bin\Debug\WorkingWithPopups.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\bin\Debug\WorkingWithPopups.pdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\bin\Debug\Xamarin.Forms.Core.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\bin\Debug\Xamarin.Forms.Platform.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\bin\Debug\Xamarin.Forms.Core.xml
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\obj\Debug\WorkingWithPopups.MainPage.xaml.g.cs
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\obj\Debug\WorkingWithPopups.AlertPage.xaml.g.cs
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\obj\Debug\WorkingWithPopups.ActionSheetPage.xaml.g.cs
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\obj\Debug\WorkingWithPopups.dll
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\obj\Debug\WorkingWithPopups.pdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\obj\Debug\WorkingWithPopups.dll.mdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\bin\Debug\WorkingWithPopups.dll.mdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\obj\Debug\WorkingWithPopups.dll.mdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\bin\Debug\WorkingWithPopups.dll.mdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\obj\Debug\WorkingWithPopups.dll.mdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\bin\Debug\WorkingWithPopups.dll.mdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\obj\Debug\WorkingWithPopups.dll.mdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\bin\Debug\WorkingWithPopups.dll.mdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\obj\Debug\WorkingWithPopups.dll.mdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\bin\Debug\WorkingWithPopups.dll.mdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\obj\Debug\WorkingWithPopups.dll.mdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\bin\Debug\WorkingWithPopups.dll.mdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\obj\Debug\WorkingWithPopups.dll.mdb
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WorkingWithPopups\bin\Debug\WorkingWithPopups.dll.mdb
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\obj\Debug\WorkingWithPopups.MainPage.xaml.g.cs
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\obj\Debug\WorkingWithPopups.AlertPage.xaml.g.cs
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\obj\Debug\WorkingWithPopups.ActionSheetPage.xaml.g.cs
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\bin\Debug\WorkingWithPopups.dll
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\bin\Debug\WorkingWithPopups.pdb
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\bin\Debug\Xamarin.Forms.Core.dll
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\bin\Debug\Xamarin.Forms.Platform.dll
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\bin\Debug\Xamarin.Forms.Core.pdb
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\bin\Debug\Xamarin.Forms.Core.xml
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\obj\Debug\WorkingWithPopups.dll
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\obj\Debug\WorkingWithPopups.pdb
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\obj\Debug\WorkingWithPopups.dll.mdb
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\bin\Debug\WorkingWithPopups.dll.mdb
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\obj\Debug\WorkingWithPopups.dll.mdb
+C:\sources\XamarinExamples\samples\src\WorkingWithPopups\bin\Debug\WorkingWithPopups.dll.mdb

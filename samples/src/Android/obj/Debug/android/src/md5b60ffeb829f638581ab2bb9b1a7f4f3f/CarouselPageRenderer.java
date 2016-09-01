@@ -6,15 +6,24 @@ public class CarouselPageRenderer
 	implements
 		mono.android.IGCUserPeer
 {
-	static final String __md_methods;
+/** @hide */
+	public static final String __md_methods;
 	static {
 		__md_methods = 
-			"n_onLayout:(ZIIII)V:GetOnLayout_ZIIIIHandler\n" +
-			"n_onMeasure:(II)V:GetOnMeasure_IIHandler\n" +
 			"n_onAttachedToWindow:()V:GetOnAttachedToWindowHandler\n" +
 			"n_onDetachedFromWindow:()V:GetOnDetachedFromWindowHandler\n" +
+			"n_onLayout:(ZIIII)V:GetOnLayout_ZIIIIHandler\n" +
+			"n_onMeasure:(II)V:GetOnMeasure_IIHandler\n" +
 			"";
 		mono.android.Runtime.register ("Xamarin.Forms.Platform.Android.CarouselPageRenderer, Xamarin.Forms.Platform.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null", CarouselPageRenderer.class, __md_methods);
+	}
+
+
+	public CarouselPageRenderer (android.content.Context p0) throws java.lang.Throwable
+	{
+		super (p0);
+		if (getClass () == CarouselPageRenderer.class)
+			mono.android.TypeManager.Activate ("Xamarin.Forms.Platform.Android.CarouselPageRenderer, Xamarin.Forms.Platform.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0 });
 	}
 
 
@@ -34,12 +43,20 @@ public class CarouselPageRenderer
 	}
 
 
-	public CarouselPageRenderer (android.content.Context p0) throws java.lang.Throwable
+	public void onAttachedToWindow ()
 	{
-		super (p0);
-		if (getClass () == CarouselPageRenderer.class)
-			mono.android.TypeManager.Activate ("Xamarin.Forms.Platform.Android.CarouselPageRenderer, Xamarin.Forms.Platform.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null", "Android.Content.Context, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=84e04ff9cfb79065", this, new java.lang.Object[] { p0 });
+		n_onAttachedToWindow ();
 	}
+
+	private native void n_onAttachedToWindow ();
+
+
+	public void onDetachedFromWindow ()
+	{
+		n_onDetachedFromWindow ();
+	}
+
+	private native void n_onDetachedFromWindow ();
 
 
 	public void onLayout (boolean p0, int p1, int p2, int p3, int p4)
@@ -57,23 +74,7 @@ public class CarouselPageRenderer
 
 	private native void n_onMeasure (int p0, int p1);
 
-
-	public void onAttachedToWindow ()
-	{
-		n_onAttachedToWindow ();
-	}
-
-	private native void n_onAttachedToWindow ();
-
-
-	public void onDetachedFromWindow ()
-	{
-		n_onDetachedFromWindow ();
-	}
-
-	private native void n_onDetachedFromWindow ();
-
-	java.util.ArrayList refList;
+	private java.util.ArrayList refList;
 	public void monodroidAddReference (java.lang.Object obj)
 	{
 		if (refList == null)

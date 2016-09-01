@@ -1,6 +1,0 @@
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WinPhone\obj\x86\Debug\WorkingWithPopups.WinPhone.csprojResolveAssemblyReference.cache
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WinPhone\obj\x86\Debug\App.g.cs
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WinPhone\obj\x86\Debug\MainPage.g.cs
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WinPhone\obj\x86\Debug\WorkingWithPopups.WinPhone.g.resources
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WinPhone\obj\x86\Debug\WorkingWithPopups.WinPhone.Resources.AppResources.resources
-C:\Users\siavash.ghassemi\Downloads\Pop-ups (1)\WinPhone\obj\x86\Debug\WorkingWithPopups.WinPhone.csproj.GenerateResource.Cache
